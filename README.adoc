@@ -1,5 +1,5 @@
 ---
-tags: [spring cloud, architecture]
+tags: [spring-cloud, architecture]
 ---
 :toc:
 :icons: font
