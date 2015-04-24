@@ -1,14 +1,12 @@
 ---
-tags: []
+tags: [spring cloud, architecture]
 ---
 :toc:
 :icons: font
 :source-highlighter: prettify
 :project_id: ref-spring-cloud
 
-== Spring Cloud reference architecture
-
 Below is a link to a PDF containg Spring Cloud's architecture.
 
-image::http://blog.greglturnquist.com/wp-content/uploads/2014/05/platform-spring-boot.png[link="https://github.com/pcf-guides/ref-spring-cloud/blob/master/spring-cloud.pdf"]
+image:thumbnail.png[link="https://github.com/pcf-guides/ref-spring-cloud/blob/master/spring-cloud.pdf"]
 
