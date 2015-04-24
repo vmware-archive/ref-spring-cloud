@@ -8,5 +8,5 @@ tags: [spring cloud, architecture]
 
 Below is a link to a PDF containg Spring Cloud's architecture.
 
-image::thumbnail.png[link="https://github.com/pcf-guides/ref-spring-cloud/blob/master/spring-cloud.pdf"]
+image::images/thumbnail.png[link="https://github.com/pcf-guides/ref-spring-cloud/blob/master/spring-cloud.pdf"]
 
